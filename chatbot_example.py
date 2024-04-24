@@ -11,8 +11,8 @@ from openai.embeddings_utils import get_embedding
 from streamlit_chat import message
 
 
-openai.api_key = "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"
-#client = OpenAI(api_key='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')
+openai.api_key = "sk-p"
+#client = OpenAI(api_key='sk-p')
 
 
 folder_path = './data'
